@@ -1,15 +1,14 @@
-Dataset Description:
-the analysis of data concerning the wafer production process with the goal of determining possible causes for errors, resulting in lots of faulty wafers.
+Dataset Description: The analysis of data concerning the wafer production process with the goal of determining possible causes for errors, resulting in lots of faulty wafers.<br>
+
 Train.csv - 1763 rows x 1559 columns
+
 Test.csv - 756 rows x 1558 columns
 
 
 Attribute Description:
+
 Feature1 - Feature1558 - Represents the various attributes that were collected from the manufacturing machine
+
 Class - (0 or 1) - Represents Good/Anomalous class labels for the products
 
-Skills:
-High Dimensionality Data, Overfitting-vs-Underfitting
-Advanced Classification Techniques, Gradient Boosting, Neural Nets, etc
-Feature engineering, Feature Selection Techniques
 Optimizing Area under the curve(AUC) to generalize well on unseen data
