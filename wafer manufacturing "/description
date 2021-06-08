@@ -1,4 +1,5 @@
 Dataset Description:
+the analysis of data concerning the wafer production process with the goal of determining possible causes for errors, resulting in lots of faulty wafers.
 Train.csv - 1763 rows x 1559 columns
 Test.csv - 756 rows x 1558 columns
 
